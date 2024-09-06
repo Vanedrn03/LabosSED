@@ -1,0 +1,5 @@
+ 1. el punto mas debil de pgp es el sistema de clave publica
+
+2. conviene usar cifrada simetrico cuando no se a compartiddo el algoritmo utilizado ya que esta clave brinda una gran seguridad
+
+3. es un proceso que estandariza las mejores practicas de seguridad en una variedad de productos.
